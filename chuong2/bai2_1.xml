@@ -1,0 +1,15 @@
+<?xml ="1.0" encoding="UTF-8"?>
+<company>
+    <director>
+        <name>Nguyễn Văn A</name>
+    </director>
+    <address>
+        <street>Lĩnh Nam</street>
+        <city>Hà Nội</city>
+        <country>Việt Nam</country>
+    </address>
+    <contact>
+        <phone>012345678</phone>
+    </contact>
+    <tax_id>ABCXYZ</tax_id>
+</company>
